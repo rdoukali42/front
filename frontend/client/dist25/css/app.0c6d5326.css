@@ -1,0 +1,13 @@
+.scoreboard[data-v-a86bfcd8]{border:2px solid #ff4500;background-color:#f0f0f0;padding:10px;margin:10px;width:300px}h2[data-v-a86bfcd8]{text-align:center;color:#ff4500}ul[data-v-a86bfcd8]{list-style:none;padding:0;text-align:center}li[data-v-a86bfcd8]{font-size:1.2em;margin:10px 0}li span[data-v-a86bfcd8]{display:block;font-weight:700;color:#333}li span
+.score[data-v-a86bfcd8]{font-size:1.5em;color:#ff4500}
+.buttonChoices[data-v-66706721]{font-family:slashed-zero,monospace;font-size:1em;color:#32cd32;padding:.2em}
+.digital-number[data-v-66706721]{font-variant-numeric:slashed-zero;font-size:3em;letter-spacing:1em;color:#32cd32;padding:.2em}
+.Winner[data-v-66706721]{font-size:2em}.Win[data-v-66706721],
+.Winner[data-v-66706721]{font-family:slashed-zero,monospace;color:#32cd32;padding:.2em}
+.Win[data-v-66706721]{font-size:3em;letter-spacing:1em}
+.canvas-container[data-v-66706721]{position:relative;width:640px;height:480px;border:1px solid #000}
+.canvas-background[data-v-66706721],canvas[data-v-66706721]{position:absolute;top:0;left:0;width:100%;height:100%}
+.canvas-background[data-v-66706721]{background-image:url(../img/pong.cba889d6.png);background-size:cover}
+.button-container[data-v-66706721]{display:flex;justify-content:space-between;margin-top:10px}
+.button-container button[data-v-66706721]{font-size:20px;padding:10px 20px;margin:0 5px;background-color:#007bff;color:#fff;border:none;border-radius:5px;cursor:pointer}
+.button-container button[data-v-66706721]:hover{background-color:#0056b3}
